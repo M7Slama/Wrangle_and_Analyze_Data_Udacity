@@ -7,10 +7,8 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 
-WeRateDogs banner
-Image via Boston Magazine
 
-Project Steps Overview
+### Project Steps Overview
 Your tasks in this project are as follows:
 
 Step 1: Gathering data
